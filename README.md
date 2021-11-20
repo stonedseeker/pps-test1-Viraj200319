@@ -1,6 +1,9 @@
 <br> 0.	Write a program to Print your name.
+
 <br> 1.	Write a program to Add two numbers.
+
 <br> ---Functions---
+
 <br> 2.	Add two number using 4 functions using Pass by value.
 		<br>int input();
 		<br> int add(int a, int b);
@@ -25,6 +28,7 @@
 <br> 5.	Write a program to Compare 3 numbers using 4 functions.
 	<br> a.	Pass by value	     //int cmp(int a, int b, int c) -> int input ()
 	<br> b.	Pass by reference //void cmp(int a, int b, int c, int *large); -> void input (int *a, int *b)
+	
 <br> 6.	Write a program to find Sum of n numbers.
 	<br> a.	Sum of n numbers 
 	<br> int input_n();
@@ -35,6 +39,7 @@
 	<br> output:
 	<br> 1+2+3+4+5 is 15
 	-----Function Prototypes:-----
+	
 <br> 7.	Write a program to find Sum of n different number
 entered by the user
 	<br> int input_array_size();
@@ -45,6 +50,7 @@ entered by the user
 	<br> 1 7 11
 	<br> output:
 	<br> 1+7+11 is 19
+	
 <br> 8. Write a program to find the square root of a number.
 	<br> float input();
 	<br> float my_sqrt(float n);
